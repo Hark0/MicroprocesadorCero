@@ -1,2 +1,2 @@
 // Recursos del programa en esta carpeta.
-// Anñadida tipografia ZX Spectrum (ttf)
+// Añadida tipografia ZX Spectrum (ttf)
