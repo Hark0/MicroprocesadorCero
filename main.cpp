@@ -26,15 +26,10 @@ using namespace std;
 // -------------------------------------------------- main
 int main(int argc, char *argv[])
 {
-	if (init_sistema() == 0)
-	{
-		// sdl2 error
-	}
-	else
+	if (init_sistema() != 0)
 	{
 		setup_sistema();
 		flip_ventana();
 		loop_sistema();
 	}
-
 }
