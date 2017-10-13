@@ -1,2 +1,3 @@
 // Recursos del programa en esta carpeta.
 // Añadida tipografia ZX Spectrum (ttf)
+// Sync....
