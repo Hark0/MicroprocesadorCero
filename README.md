@@ -32,4 +32,3 @@ Interface de vídeo: SDL2.
 - Añadida función render display doblebuffer.
 - Añadida función render sprites sobre superfície SDL.
 - Creado fichero logica.h / logica.cpp para funciones gameplay.
-
