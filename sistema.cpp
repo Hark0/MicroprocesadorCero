@@ -78,7 +78,7 @@ void setup_sistema(void)
 	cls(display, fondo_display.r, fondo_display.g, fondo_display.b);
 	cls(display_doblebuffer, 0, 0, 0);
 
-	display_zoom = ventana_ancho / display_ancho;
+//	display_zoom = ventana_ancho / display_ancho;
 
 	if (opcion_centrado_H == 1)
 	{
