@@ -1,6 +1,12 @@
 # MicroprocesadorCero
 Microprocesador virtual diseñado y desarrollado desde cero en lenguaje C.
 
+https://github.com/Hark0/MicroprocesadorCero
+thehark0@gmail.com
+litiopixel.blogspot.com
+www.zxuno.com
+
+
 Escrito con C4Droid. Android.
 Interface de vídeo: SDL2.
 
@@ -24,5 +30,4 @@ Interface de vídeo: SDL2.
 - Añadida función render display doblebuffer.
 - Añadida función render sprites sobre superfície SDL.
 - Creado fichero logica.h / logica.cpp para funciones gameplay.
-
 
