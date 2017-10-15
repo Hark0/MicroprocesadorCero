@@ -10,12 +10,12 @@ struct colorRGB
 	int b;
 };
 
-int ventana_ancho = 1600;
-int ventana_alto = 2560;
+int ventana_ancho = 1080;//1600;
+int ventana_alto = 1920;//2560;
 
 int display_ancho = 256;
 int display_alto = 192;
-int display_zoom = 1;
+int display_zoom = 4;
 int display_posx = 0;
 int display_posy = 0;
 int font_px = 8;
