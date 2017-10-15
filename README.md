@@ -11,6 +11,7 @@ http://litiopixel.blogspot.com - www.zxuno.com
 Escrito con C4Droid. Android.
 Interface de vídeo: SDL2.
 
+
 14/10/2017:
 - Creado fichero main.cpp.
 - Creado fichero sistema.h / sistema.cpp para funciones vídeo.
