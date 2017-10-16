@@ -33,6 +33,11 @@ Interface de vídeo: SDL2.
 - Añadida función render sprites sobre superfície SDL.
 - Creado fichero logica.h / logica.cpp para funciones gameplay.
 
+16/10/2017:
+- Creado fichero eventos.h / eventos.cpp para funciones control interface.
+- Añadida función control eventos mouse / touch.
+
+
 
 Android Snapshot:
 https://drive.google.com/file/d/0B-Vquz5U6GHtRm9reDRORzFhalU/view?usp=drivesdk
